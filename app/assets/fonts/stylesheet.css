@@ -4,9 +4,9 @@
 
 
 @font-face {
-    font-family: 'source_sans_problack_italic';
-    src: url('sourcesanspro-blackit-webfont.woff2') format('woff2'),
-         url('sourcesanspro-blackit-webfont.woff') format('woff');
+    font-family: 'nobilemedium_italic';
+    src: font_url('nobile-mediumitalic-webfont.woff2') format('woff2'),
+         font_url('nobile-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,9 +16,9 @@
 
 
 @font-face {
-    font-family: 'source_sans_problack_italic';
-    src: url('sourcesanspro-blackit-webfont.woff2') format('woff2'),
-         url('sourcesanspro-blackit-webfont.woff') format('woff');
+    font-family: 'nobileregular';
+    src: font_url('nobile-regular-webfont.woff2') format('woff2'),
+         font_url('nobile-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

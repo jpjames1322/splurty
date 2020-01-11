@@ -3,12 +3,9 @@
 
 
 @font-face {
-    font-family: 'nobilregular';
-    src: font_url('nobile-regular-webfont.eot');
-    src: font_url('nobile-regular-webfont.eot?#iefix') format('embedded-opentype'),
-    font_url('nobile-regular-webfont.woff') format('woff'),
-    font_url('nobile-regular-webfont.ttf') format('truetype'),
-    font_url('nobile-regular-webfont.svg#nobileregular') format('svg');
+    font-family: 'nobilemedium_italic';
+    src: url('nobile-mediumitalic-webfont.woff2') format('woff2'),
+         url('nobile-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -18,12 +15,9 @@
 
 
 @font-face {
-    font-family: 'nobilemedium_italic';
-    src: font_url('nobile-mediumitalic-webfont.eot');
-    src: font_url('nobile-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
-    font_url('nobile-mediumitalic-webfont.woff') format('woff'),
-    font_url('nobile-mediumitalic-webfont.ttf') format('truetype'),
-    font_url('nobile-mediumitalic-webfont.svg#nobilemedium_italic') format('svg');
+    font-family: 'nobileregular';
+    src: url('nobile-regular-webfont.woff2') format('woff2'),
+         url('nobile-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
